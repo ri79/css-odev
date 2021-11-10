@@ -1,0 +1,92 @@
+h1, h2, h3, h4, h5, h6 {
+    color:darkorange;
+    text-align:left;
+    font-size: 24px;
+    margin: 10px;
+
+
+}
+
+header{
+    text-align: center;
+} 
+
+
+p {
+    font-size: 14;
+    color:green;
+    text-align: justify;
+}
+
+
+
+a:link {
+    color:indianred;
+    background-color: transparent;
+    text-decoration: none;
+    font-size:x-large;
+    margin: 20px;
+    text-align: center;
+  }
+
+
+   /* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 22%;
+    padding: 15px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  } 
+
+
+
+body   {
+    
+    background-color: lavender;
+    
+}
+
+
+
+
+
+
+
+
+
+.fs-14 {
+    font-size: 6px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-20 {
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+/* id -> #id-bilgisi {} *\
+/** class -> .text-red {}
+
+
+
+
+
+
+
+
+**\
+
